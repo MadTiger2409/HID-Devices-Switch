@@ -7,7 +7,7 @@ Prototype is a game from 2009. It has a big problem with USB-based keyboards and
 In this case you need to disable device manually. But if you have a keyboard and mouse that are represented by more than one HID Device (like in my case) then process is annoying and time-consuming.
 
 ## Solution
-To speed up this process I made simple PowerShell script. This disables all necessary devices if they are enabled and vice versa.
+To speed up this process I made simple PowerShell script. This disables all unnecessary devices if they are enabled and vice versa.
 
 ## Tested devices
 This is a list of devices tested with this script:
