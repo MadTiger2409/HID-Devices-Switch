@@ -8,7 +8,7 @@ If (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 	Break
 }
 
-# Get HID Devices that are needed to be disabled/enableed
+# Get HID Devices that are needed to be disabled/enabled
 $VendorDevices = (Get-PnpDevice -FriendlyName "*HID-compliant vendor*" -Class "HIDClass")
 $ConsumerDevices = (Get-PnpDevice -FriendlyName "*HID-compliant consumer*" -Class "HIDClass")
 
