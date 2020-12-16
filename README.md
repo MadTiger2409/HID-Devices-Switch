@@ -12,5 +12,8 @@ To speed up this process I made simple PowerShell script. This disables all unne
 ## Tested devices
 This is a list of devices tested with this script:
 
-* Corsair Harpoon RGB Pro
-* Corsair K70 RGB MK.2 Cherry MX Silent
+### Corsair
+* HARPOON RGB PRO
+* M65 RGB ELITE
+* K70 RGB MK.2 Cherry MX Silent
+* VOID RGB ELITE Wireless 
